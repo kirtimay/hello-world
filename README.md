@@ -1,3 +1,3 @@
 # hello-world
 
-Yo vossup its yo boy Chabuddy G yea aka Mayor of Hounslow aka Alan Brownsugar aka UKIPs vorst nightmare
+Just an initial repo where I tried to figure out just wtf this github thing is
